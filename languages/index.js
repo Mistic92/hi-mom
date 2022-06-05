@@ -28,7 +28,7 @@ export default {
   ms: "Hai, {{bapa}}!",
   "nl-BE": "Hallo, {{moeke}}!",
   "nl-NL": "Hallo, {{moeder}}!",
-  pl: "Cześć, {{matka}}!",
+  pl: "Cześć, {{mamo}}!",
   pt: "Oi, {{mãe}}!",
   ro: "Bună, {{mamă}}!",
   ru: "Привет, {{мама}}!",
